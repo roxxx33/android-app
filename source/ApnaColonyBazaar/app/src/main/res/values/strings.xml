@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APNA COLONY BAZAAR</string>
+    <string name="community_name">Community Name</string>
+    <string name="try1">blah</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">CREATE POST</string>
+    <string name="button2">VIEW MEMBERS</string>
+    <string name="button3">MODIFY</string>
+    <string name="button4">DELETE</string>
+    <string name="title_activity_member_post">MemberPost</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_own_post">OwnPost</string>
+</resources>

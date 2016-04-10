@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ApnaFinal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="title_activity_1">Activity1</string>
+    <string name="title_activity_single_post">SinglePostActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="user_name">Username</string>
+    <string name="user_password_confirmation">Confirm Password</string>
+    <string name="register">REGISTER</string>
+    <string name="register_disclaimer">REGISTER disclaimer</string>
+    <string name="title_activity_itemlist">itemlistActivity</string>
+    <string name="title_activity_list_item">ListItemActivity</string>
+    <string name="create_post">Create Post</string>
+    <string name="title_activity_create_post">CreatePostActivity</string>
+    <string name="title_activity_community_create">CommunityCreateActivity</string>
+    <string name="title_activity_request">RequestActivity</string>
+
+
+
+
+</resources>

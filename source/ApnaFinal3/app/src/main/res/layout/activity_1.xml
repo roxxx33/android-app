@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ic_launcher1">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="30dp"
+
+
+    >
+    <Button
+        android:id="@+id/createButton"
+        android:layout_marginLeft="140dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="SwitchcreatePost"
+        android:text="@string/create_post"
+        android:background="@drawable/rounded_corner"
+        android:textColor="#000000"/>
+</LinearLayout>
+
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_above="@id/createButton"
+        android:textColor="#FFFFFF"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10.0sp"
+        android:background="@drawable/layer_card"
+        android:alpha="0.5"
+
+        />
+
+
+</LinearLayout>

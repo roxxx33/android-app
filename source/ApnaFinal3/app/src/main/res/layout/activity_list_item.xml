@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:background="@drawable/layer_card">
+
+    <!-- Name Label -->
+
+
+
+    <!-- Email label -->
+    <TextView
+        android:id="@+id/created_at"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:textColor="#ffffff"
+        android:background="#ffffff"/>
+
+    <!-- Mobile number label -->
+    <TextView
+        android:id="@+id/postdata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="Post: "
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:background="#ffffff"/>
+
+</LinearLayout>
